@@ -1,3 +1,6 @@
-# my-first-project
+# My Project
+This is my first GitHub project.
 
-it my first project
+## Features
+- Simple code
+- Easy to use
